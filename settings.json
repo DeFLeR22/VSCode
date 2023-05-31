@@ -1,0 +1,25 @@
+{
+    "files.autoSave": "onFocusChange",
+    "editor.detectIndentation": false,
+    "editor.mouseWheelZoom": true,
+    "workbench.editor.closeEmptyGroups": false,
+    "editor.formatOnSave": true,
+    "liveSassCompile.settings.generateMap": false,
+    "liveSassCompile.settings.formats": [
+        {
+            "format": "expanded",
+            "extensionName": ".css",
+            "savePath": "~/../css",
+        }
+    ],
+    "vscodeGoogleTranslate.preferredLanguage": "English",
+    "editor.minimap.enabled": false,
+    "[scss]": {
+        "editor.defaultFormatter": "vscode.css-language-features"
+    },
+    "ecsstractor_port.bem_nesting": true,
+    "ecsstractor_port.add_comment": false,
+    "ecsstractor_port.brackets_newline_after": false,
+    "workbench.colorTheme": "Material Theme Darker High Contrast",
+    "settingsSync.ignoredExtensions": []
+}
